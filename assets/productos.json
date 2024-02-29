@@ -1,0 +1,20 @@
+[
+    {
+        "title": "samsung",
+        "description": "descripcion1",
+        "price": 100000,
+        "thumbnail": "imagen1",
+        "code": "abc123",
+        "stock": 100,
+        "id": 2
+    },
+    {
+        "title": "samsung",
+        "description": "descripcion1",
+        "price": 100000,
+        "thumbnail": "imagen1",
+        "code": "abc123",
+        "stock": 100,
+        "id": 1
+    }
+]
